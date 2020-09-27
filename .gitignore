@@ -1,0 +1,7 @@
+/Archive
+/gerberFiles
+*-bak
+*.txt
+fp-info-cache
+sym-lib-table
+KiCAD_SpeakerProtection_K4700*
